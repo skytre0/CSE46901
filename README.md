@@ -13,18 +13,18 @@ The projects are organized into separate folders, each containing:
 ---
 
 ## [Project 1: Drone Exploration & Mapping](./Project1)
-Focuses on Single Mothership control based on the CosmicMiner framework.
+Rocket control with Arduino-based joystick input.
 - **Source**: `Project1.unitypackage`
 - **Report**: `Project1_Report.pdf`
 - **Video**: `Project1_Video_Team9.mp4`
 
 ## [Project 2: Robotic Simulation](./Project2)
-Focuses on multi-agent drone exploration based on the CosmicMiner framework.
+Single drone navigation with GPS waypoints and checkpoints
 - **Source**: `Project2.unitypackage`
 - **Report**: `Project2_Report.pdf`
 
 ## [Project 3: Advanced Robotics Project](./Project3)
-Final project involving complex robotic tasks and multi-agent coordination.
+Multi-agent drone exploration with autonomous path planning
 - **Source**: `Project3.unitypackage`
 - **Report**: `Project3_Report.pdf`
 

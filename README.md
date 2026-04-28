@@ -13,13 +13,13 @@ The projects are organized into separate folders, each containing:
 ---
 
 ## [Project 1: Drone Exploration & Mapping](./Project1)
-Focuses on multi-agent drone exploration based on the CosmicMiner framework.
+Focuses on Single Mothership control based on the CosmicMiner framework.
 - **Source**: `Project1.unitypackage`
 - **Report**: `Project1_Report.pdf`
 - **Video**: `Project1_Video_Team9.mp4`
 
 ## [Project 2: Robotic Simulation](./Project2)
-Advanced robotic simulation and implementation in Unity.
+Focuses on multi-agent drone exploration based on the CosmicMiner framework.
 - **Source**: `Project2.unitypackage`
 - **Report**: `Project2_Report.pdf`
 

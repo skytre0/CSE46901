@@ -33,3 +33,8 @@ Multi-agent drone exploration with autonomous path planning
 ## Acknowledgments
 - Based on nshbae's [CosmicMiner](https://github.com/nshbae/CosmicMiner) framework.
 - Developed in collaboration with [hoonably](https://github.com/hoonably), referencing [multi-agent-drone-exploration](https://github.com/hoonably/multi-agent-drone-exploration).
+
+---
+
+## Acknowledgments
+Original starter code and this repository are licensed under the MIT License, which is included.
